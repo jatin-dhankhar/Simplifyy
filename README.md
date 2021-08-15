@@ -1,0 +1,1 @@
+This website is developed as project component of the subject LEAN START UP MANAGEMENT. the name of the project is SIMPLIFY which aims to provide a one stop solution to every problems of VITIANS'. Initially, it is aimed to start the service at VIT Vellore Campus.
